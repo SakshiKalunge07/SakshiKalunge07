@@ -32,7 +32,7 @@
 
 | 💡 Project | ⚙️ Tech Stack | 📂 Repo |
 |-------------|---------------|---------|
-| 🧠 **PulseWatch (AIOps)** | FastAPI · Docker · ML · Prometheus | [🔗 View Repo](https://github.com/SakshiKalunge/AIOps) |
+| 🧠 **PulseWatch (AIOps)** | FastAPI · ML · Prometheus | [🔗 View Repo](https://github.com/SakshiKalunge/AIOps) |
 
 <br />
 <br />
