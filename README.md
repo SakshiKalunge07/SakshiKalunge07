@@ -33,6 +33,7 @@
 | 💡 Project | ⚙️ Tech Stack | 📂 Repo |
 |-------------|---------------|---------|
 | 🧠 **PulseWatch (AIOps)** | FastAPI · ML · Prometheus | [🔗 View Repo](https://github.com/SakshiKalunge/AIOps) |
+| **SignSpeak** | ComputerVision . MediaPipe|  [🔗 View Repo](https://github.com/annuuxoxo/SignSpeak_Inheritance)|
 
 <br />
 <br />
